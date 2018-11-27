@@ -1,0 +1,19 @@
+{
+  "name": "promise-mate",
+  "version": "1.0.0",
+  "description": "Eliminate duplicate promises within Promise.all",
+  "main": "index.js",
+  "repository": "https://github.com/czycha/promise-mate",
+  "author": "czycha",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "delay": "^4.1.0",
+    "jest": "^23.6.0"
+  },
+  "dependencies": {
+    "fast-deep-equal": "^2.0.1"
+  }
+}
