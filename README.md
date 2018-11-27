@@ -1,5 +1,5 @@
 # promise-mate
----
+
 `Promise.all` fulfillment for many `Promises` to many callbacks to prevent duplicate calls when there are shared requirements.
 
 ## Use cases
