@@ -1,4 +1,4 @@
-const Mate = require('./')
+const Mate = require('../dist/promise-mate')
 const delay = require('delay')
 
 const definitions = {
